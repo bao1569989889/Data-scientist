@@ -1,3 +1,2 @@
 # Data-scientist
-
-### This is my data scientists practice and projects
+This is my data scientists practice and projects
