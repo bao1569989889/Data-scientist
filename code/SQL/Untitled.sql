@@ -1,0 +1,1 @@
+SELECT * FROM week4_alcohol_adolescents.`brfss_ok-1`;
